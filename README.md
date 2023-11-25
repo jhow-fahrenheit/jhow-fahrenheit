@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @jhow-fahrenheit
-- 👀 I'm interested in learning Web Development, HTML, CSS, JavaScript, Angular, Python and Cybersecurity.
+- 👀 I'm interested in learning Web Development, HTML, CSS, JavaScript, Python and Cybersecurity.
 - 🌱 I am currently learning the Python programming language.
 - 💞️ I look to collaborate on projects where I can learn and develop my career.
